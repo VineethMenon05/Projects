@@ -62,13 +62,13 @@ python backend/app.py
 ## 📸 Screenshots
 
 ### 🖥 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/smartiddashboard.png)
 
 ### 📊 Attendance System
-![Attendance](screenshots/attendance.png)
+![Attendance](screenshots/smartidattendance2.png)
 
 ### 🔌 IoT / RFID Module
-![IoT Module](screenshots/iot-module.jpg)
+![IoT Module](screenshots/iot_module.jpg)
 
 ## 👨‍💻 Author
 Vineeth Menon
