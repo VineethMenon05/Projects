@@ -62,14 +62,13 @@ python backend/app.py
 ## 📸 Screenshots
 
 ### 🖥 Dashboard
-![Dashboard](screenshots/SmartID Attendance.PNG)
+![Dashboard](screenshots/dashboard.png)
 
 ### 📊 Attendance System
-![Attendance](screenshots/SmartID Attendance2.PNG)
+![Attendance](screenshots/attendance.png)
 
 ### 🔌 IoT / RFID Module
-This module is used for hardware-based attendance integration.
-![IoT Module](screenshots/IOT_Module.jpeg)
+![IoT Module](screenshots/iot-module.jpg)
 
 ## 👨‍💻 Author
 Vineeth Menon
